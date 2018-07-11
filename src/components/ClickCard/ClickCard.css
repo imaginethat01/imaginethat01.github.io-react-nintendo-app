@@ -1,0 +1,76 @@
+.card {
+  height: 200px;
+  width: 200px;
+  background: #6CADDC;
+  cursor: pointer;
+  transition: all .2s ease-in-out;
+  overflow: hidden;
+  padding: 10px;
+  text-align: center;
+}
+
+.card:hover {
+	transform: scale(1.06);
+}
+
+img {
+  width: 60%;
+}
+
+/* entire container, keeps perspective */
+
+
+.flip-container {
+
+  background: #ccc;
+  margin: 20px auto;
+}
+
+/* flip the pane when clicked */
+.flip-container:hover .flipper, .flip-container.hover .flipper {
+  -webkit-transform: rotateY(180deg);
+}
+
+.flip-container, .front, .back {
+	width: 200px;
+	height: 200px;
+}
+
+/* flip speed goes here */
+.flipper {
+	-webkit-transition: 0.6s;
+	-webkit-transform-style: preserve-3d;
+	position: relative;
+}
+
+/* hide back of pane during swap */
+.front, .back {
+
+  
+	-webkit-backface-visibility: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+/* front pane, placed above back */
+.front {
+  height: 200px;
+  width: 200px;
+  z-index: 1;
+  background: yellow;
+}
+
+/* back, initially hidden pane */
+.back {
+  height: 200px;
+  width: 200px;
+  -webkit-transform: rotateY(180deg);
+
+}
+
+.mysterybox {
+  height: 200px;
+  width: 200px;
+
+}

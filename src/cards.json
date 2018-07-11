@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image": "http://newsupermariobros2.nintendo.com/_ui/img/power-ups/icons/one-up-mushroom.png"
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image": "http://newsupermariobros2.nintendo.com/_ui/img/power-ups/icons/super-leaf.png"
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image": "http://newsupermariobros2.nintendo.com/_ui/img/characters/icons/toad.png"
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/NintendoSwitchLogo.svg/125px-NintendoSwitchLogo.svg.png"
+  },
+  {
+    "id": 5,
+    "name": "Courage",
+    "image": "http://newsupermariobros2.nintendo.com/_ui/img/characters/icons/gold-enemies.png"
+  },
+  {
+    "id": 6,
+    "name": "Doug Funnie",
+    "image": "http://newsupermariobros2.nintendo.com/_ui/img/characters/icons/princess-peach.png"
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "http://newsupermariobros2.nintendo.com/_ui/img/power-ups/icons/gold-mushroom.png"
+  },
+  {
+    "id": 8,
+    "name": "Johnny Bravo",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1gAr9gAF_lKeK7eQs7xf-sYHytX5-lmKsXPnKF5XYiUO6fbWHA"
+  },
+  {
+    "id": 9,
+    "name": "Tommy Pickles",
+    "image": "https://shirtoid.com/wp-content/uploads/2016/03/Dear-World-Im-Not-Zelda-sm.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Starfox",
+    "image": "https://shirtoid.com/wp-content/uploads/2015/09/A-Retro-Future-sm.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Deku",
+    "image": "http://www.zeldagalaxy.com/wp-content/uploads/2018/06/mm-dekulink-01.png"
+  },
+  {
+    "id": 12,
+    "name": "Kirby",
+    "image": "https://www.mariowiki.com/images/thumb/0/07/Kirby_SSBU.png/125px-Kirby_SSBU.png"
+  }
+  
+
+]

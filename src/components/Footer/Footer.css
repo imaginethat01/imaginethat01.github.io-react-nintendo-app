@@ -1,0 +1,19 @@
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    height: 250px;
+    width: 100%;
+   
+    color: white;
+    text-align: center;
+
+ }
+
+ .nintenlogo {
+
+    position: relative;
+    height: 250px;
+    width: 400px;
+
+ }
